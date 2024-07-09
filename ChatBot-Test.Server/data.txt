@@ -1,0 +1,8 @@
+A tenant is a major division within a larger enterprise.
+To create a tenant, click on the tenant button and then click on create tenant button (Only admins can create tenants).
+
+A department represents subdivisions within an organization.
+
+Users can be assigned to specific tenants and departments to reflect the organizational structure.
+
+The "App E-File" extension is a document management feature that allows organizations to store and manage documents related to their users.
